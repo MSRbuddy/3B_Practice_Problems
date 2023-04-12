@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.exe
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.deps.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.runtimeconfig.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\bin\Debug\net6.0\ParameterizedConstructor.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.AssemblyInfo.cs
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\refint\ParameterizedConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ParameterizedConstructor.genruntimeconfig.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\ParameterizedConstructor\ParameterizedConstructor\obj\Debug\net6.0\ref\ParameterizedConstructor.dll

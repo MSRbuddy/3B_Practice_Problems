@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.exe
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.deps.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.runtimeconfig.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfo.cs
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\refint\StaticConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.genruntimeconfig.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\StaticConstructor\StaticConstructor\obj\Debug\net6.0\ref\StaticConstructor.dll

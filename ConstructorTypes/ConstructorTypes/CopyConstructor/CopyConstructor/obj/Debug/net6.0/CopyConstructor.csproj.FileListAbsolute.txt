@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\bin\Debug\net6.0\CopyConstructor.exe
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\bin\Debug\net6.0\CopyConstructor.deps.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\bin\Debug\net6.0\CopyConstructor.runtimeconfig.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\bin\Debug\net6.0\CopyConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\bin\Debug\net6.0\CopyConstructor.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.AssemblyInfo.cs
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\refint\CopyConstructor.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\CopyConstructor.genruntimeconfig.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\CopyConstructor\CopyConstructor\obj\Debug\net6.0\ref\CopyConstructor.dll

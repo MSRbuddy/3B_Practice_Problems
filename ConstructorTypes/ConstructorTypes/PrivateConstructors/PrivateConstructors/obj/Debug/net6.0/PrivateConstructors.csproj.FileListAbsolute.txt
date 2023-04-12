@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\bin\Debug\net6.0\PrivateConstructors.exe
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\bin\Debug\net6.0\PrivateConstructors.deps.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\bin\Debug\net6.0\PrivateConstructors.runtimeconfig.json
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\bin\Debug\net6.0\PrivateConstructors.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\bin\Debug\net6.0\PrivateConstructors.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.AssemblyInfo.cs
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\refint\PrivateConstructors.dll
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.pdb
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\PrivateConstructors.genruntimeconfig.cache
+C:\Users\USER\source\BL\ConstructorTypes\ConstructorTypes\PrivateConstructors\PrivateConstructors\obj\Debug\net6.0\ref\PrivateConstructors.dll
