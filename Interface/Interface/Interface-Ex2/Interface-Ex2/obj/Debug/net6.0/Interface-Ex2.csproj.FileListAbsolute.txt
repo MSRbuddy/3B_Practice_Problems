@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\bin\Debug\net6.0\Interface-Ex2.exe
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\bin\Debug\net6.0\Interface-Ex2.deps.json
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\bin\Debug\net6.0\Interface-Ex2.runtimeconfig.json
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\bin\Debug\net6.0\Interface-Ex2.dll
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\bin\Debug\net6.0\Interface-Ex2.pdb
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.AssemblyInfo.cs
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.dll
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\refint\Interface-Ex2.dll
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.pdb
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\Interface-Ex2.genruntimeconfig.cache
+C:\Users\USER\source\BL\Interface\Interface\Interface-Ex2\Interface-Ex2\obj\Debug\net6.0\ref\Interface-Ex2.dll
