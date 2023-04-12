@@ -1,0 +1,15 @@
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\bin\Debug\net6.0\PublicAccessModifier.exe
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\bin\Debug\net6.0\PublicAccessModifier.deps.json
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\bin\Debug\net6.0\PublicAccessModifier.runtimeconfig.json
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\bin\Debug\net6.0\PublicAccessModifier.dll
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\bin\Debug\net6.0\PublicAccessModifier.pdb
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.csproj.AssemblyReference.cache
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.AssemblyInfoInputs.cache
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.AssemblyInfo.cs
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.dll
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\refint\PublicAccessModifier.dll
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.pdb
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\PublicAccessModifier.genruntimeconfig.cache
+C:\Users\USER\source\BL\PublicAccessModifier\PublicAccessModifier\obj\Debug\net6.0\ref\PublicAccessModifier.dll
